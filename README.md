@@ -5,4 +5,4 @@ on a single SVG canvas.
 
 ## Usage
 
-* [http://peteb4ker.github.io/d3.chart/doc/classes/d3.chart.Plot.html](d3.chart.plot API documentation)
+* [d3.chart.plot API documentation](http://peteb4ker.github.io/d3.chart/doc/classes/d3.chart.Plot.html)
